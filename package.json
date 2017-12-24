@@ -1,0 +1,22 @@
+{
+  "name": "mining-client",
+  "version": "0.1.0",
+  "description": "mining-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rBurgett/mining-client.git"
+  },
+  "author": "Ryan Burgett <ryan@burgettweb.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rBurgett/mining-client/issues"
+  },
+  "homepage": "https://github.com/rBurgett/mining-client#readme",
+  "devDependencies": {
+    "eslint": "^4.14.0"
+  }
+}
